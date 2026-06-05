@@ -1,7 +1,7 @@
 {
   "name": "auto-mantenimiento-ia",
   "version": "1.0.0",
-  "description": "para diagnosticar mantenimiento vehicular con apoyo de IA.",
+  "description": "Sistema web responsive para diagnosticar mantenimiento vehicular con apoyo de IA.",
   "main": "server.js",
   "scripts": {
     "dev": "vite --host 127.0.0.1 --port 5173",
